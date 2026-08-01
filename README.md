@@ -1,129 +1,120 @@
-# Hi, I'm Jacob Yancey 👋  
-### Founder & Principal Software Engineer • Dangling Dice Studios L.L.C.
+# Hi, I'm Jacob Yancey 👋
 
-I design and ship **production AI software** across custom LLMs, full-stack platforms, mobile apps, and secure backend systems.
+### Founder-Engineer · Dangling Dice Studios
+
+> Building secure, AI-powered products, automation systems, and full-stack applications.
 
 <p align="left">
-  <a href="https://danglingdicestudios.com"><img alt="Website" src="https://img.shields.io/badge/Website-danglingdicestudios.com-0A66C2?style=for-the-badge"></a>
-  <a href="mailto:jacob.yancey@danglingdicestudios.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge"></a>
-  <!-- Optional LinkedIn badge -->
-  <!-- <a href="https://linkedin.com/in/your-link"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge"></a> -->
+  <a href="https://danglingdicestudios.com"><img alt="Website" src="https://img.shields.io/badge/Website-danglingdicestudios.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:jacob.yancey@danglingdicestudios.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- Add your LinkedIn URL below when ready -->
+  <!-- <a href="https://linkedin.com/in/YOUR-PROFILE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
 </p>
 
 ---
 
 ## Recruiter Snapshot
 
-- 🧠 **AI/LLM Engineering:** fine-tuning, evaluation pipelines, structured outputs
-- 🏗️ **Full-Stack Product Delivery:** Next.js + Electron + cloud-backed services
-- 📱 **Mobile Engineering:** Flutter production apps with strong state architecture
-- 🔐 **Secure Systems:** certificate-based auth, RBAC, integrity verification
-- ✅ **Quality Engineering:** robust automated testing and regression prevention
+| Area | Focus |
+|---|---|
+| 🧠 **AI / LLM Systems** | Fine-tuning, evaluation pipelines, distributed data ingestion |
+| 🏗️ **Full-Stack Product** | Next.js · Electron · Supabase · cloud-backed apps |
+| 📱 **Mobile Engineering** | Flutter production apps · Riverpod state · SQLite persistence |
+| 🔐 **Security Engineering** | RBAC middleware · certificate management · data integrity |
+| ✅ **Test Automation** | JUnit · Mockito · 100% business-rule coverage |
+| ⚙️ **Automation** | Playwright · BullMQ · Redis · workflow pipelines |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1) Leviathan AI Studio & Custom LLM (Leviathan Model)
-**Repository:** [jacobyancey/leviathan-ai-studio](https://github.com/jacobyancey/leviathan-ai-studio)  
-**Live Demo (Recruiter Access):** [leviathan-dice.com](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
+### 1 · Leviathan AI Studio — Dangling Dice Studios
 
-**What it is**  
-A full-stack AI studio centered on a custom fine-tuned LLM (“Leviathan”) specialized in automated web data extraction evaluation and structured JSON formatting.
+**Stack:** `Python` `Unsloth` `LoRA/PEFT` `PyTorch` `Next.js` `Playwright` `BullMQ` `Redis` `Supabase` `Electron`
 
-**Tech Stack**  
-`Python` `Unsloth` `LoRA/PEFT` `PyTorch` `Playwright` `Next.js` `BullMQ` `Redis` `Supabase` `Electron`
+A full-stack AI studio built around a custom fine-tuned LLM specializing in web data extraction evaluation and structured JSON generation.
 
-**Selected Impact**
-- Designed, fine-tuned, and deployed the Leviathan model
-- Built distributed scraping pipelines for continuous evaluation data
-- Implemented RBAC middleware with recruiter-safe read-only sessions
-- Delivered cross-platform desktop + web studio experience
+- Built a **distributed web scraping pipeline** using Playwright, BullMQ, and Redis to continuously collect evaluation data and feed it back into the model training workflow.
+- Designed **Next.js security middleware** enforcing Role-Based Access Control (RBAC) and read-only guest sessions to protect sensitive application features.
+- **Package-wrapped the studio** with Electron, Next.js, and Supabase to support both web orchestration and local desktop operation.
+
+🔗 **Repo:** [leviathan-ai-studio](https://github.com/jacobyancey-bit/leviathan-ai-studio) &nbsp;|&nbsp; **Live Demo:** [leviathan-dice.com](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
 
 ---
 
-### 2) AI Calculator Mobile Application (Dangling Dice Studios)
-**Repository:** _Coming soon (public release pending)_  
-**Google Play:** _Link coming soon_
+### 2 · AI Calculator Mobile Application — Dangling Dice Studios
 
-**What it is**  
-A commercial AI-powered learning calculator with reasoning personas and persistent local storage.
+**Stack:** `Flutter` `Dart` `SQLite` `Google Gemini API` `Riverpod`
 
-**Tech Stack**  
-`Flutter` `Dart` `SQLite` `Google Gemini API` `Riverpod`
+A commercial AI-powered learning calculator with dynamic reasoning personas and persistent local storage, published on Google Play.
 
-**Selected Impact**
-- Built and published a production app on Google Play
-- Implemented Tutor / ELI5 / Professor reasoning personas
-- Architected high-performance state management via Riverpod
-- Added reliable local persistence with SQLite
+- Implemented **dynamic reasoning personas** (Standard Tutor, ELI5 Friendly Tutor, College Professor) using custom system instructions and context framing to tailor AI responses to user learning levels.
+- Architected **local state management** with Riverpod for predictable data flow, high performance, and an optimized rendering lifecycle.
+- Integrated **SQLite** for seamless persistent local storage and conversation history management.
+
+🔗 **Google Play:** _Link coming soon_
 
 ---
 
-### 3) Secure Communications System
-**Repository:** _Add when public_
+### 3 · Secure Communications System
 
-**What it is**  
-A Spring Boot cryptographic communication system with certificate-based authentication.
+**Stack:** `Java` `Spring Boot` `Java Keytool` `Cryptography`
 
-**Tech Stack**  
-`Java` `Spring Boot` `Java Keytool` `Cryptography`
+A secure backend communications network configured for cryptographic verification between services.
 
-**Selected Impact**
-- Built secure communication channels between services
-- Generated and managed self-signed certificates
-- Implemented checksum verification to prevent tampering
+- Generated and managed **self-signed digital certificates** using Java Keytool to establish authenticated handshakes between endpoints.
+- Implemented **digital checksum verification** algorithms to prevent data tampering and ensure payload integrity during cross-network transmission.
+
+🔗 **Repo:** _Coming soon_
 
 ---
 
-### 4) Software Test Automation Frameworks
-**Repository:** _Add when public_
+### 4 · Software Test Automation Frameworks
 
-**What it is**  
-Automated test suites (JUnit/Mockito) achieving full business-logic coverage.
+**Stack:** `Java` `JUnit` `Mockito`
 
-**Tech Stack**  
-`Java` `JUnit` `Mockito`
+Automated unit test suites validating core business logic across mock service layers.
 
-**Selected Impact**
-- Engineered complete automation for Contact, Task, and Appointment services
-- Eliminated regression risk via strict boundary and edge-case testing
+- Engineered suites with JUnit to verify business logic across mock Contact, Task, and Appointment services.
+- Achieved **100% code coverage** on business-rule execution, applying strict test cases to eliminate regression bugs and validate boundary and edge cases.
+
+🔗 **Repo:** _Coming soon_
 
 ---
 
 ## 🧩 Core Skills
 
-**Languages & Frameworks**  
-Python, JavaScript/TypeScript, Dart, Java, Next.js, Flutter, Spring Boot
+**Languages & Frameworks**
+`Python` `JavaScript / TypeScript` `Dart` `Java` `Next.js` `Flutter` `Spring Boot`
 
-**AI / Data Systems**  
-LLM fine-tuning, LoRA/PEFT workflows, evaluation pipelines, structured generation
+**AI / Data Systems**
+LLM fine-tuning · LoRA/PEFT · evaluation pipelines · structured generation · Google Gemini API
 
-**Infrastructure & Tooling**  
-Redis, BullMQ, Supabase, Playwright, Electron, CI-oriented test automation
+**Infrastructure & Tooling**
+Redis · BullMQ · Supabase · Playwright · Electron · CI-oriented test automation
 
-**Security & Reliability**  
-RBAC, certificate management, data integrity validation, regression prevention
-
----
-
-## 🏢 About Dangling Dice Studios L.L.C.
-
-Dangling Dice Studios builds practical, production-ready software focused on:
-- AI-driven applications
-- Workflow automation
-- Secure, scalable cloud-integrated systems
-
-🌐 **Website:** [danglingdicestudios.com](https://danglingdicestudios.com)
+**Security & Reliability**
+RBAC · certificate management · cryptographic verification · data integrity · regression prevention
 
 ---
 
-## 🤝 Hiring / Collaboration
+## 🎓 Education
 
-Open to conversations around:
-- AI Engineering
-- Full-Stack Product Engineering
-- Mobile + Cloud Architecture
-- Automation and Platform Reliability
+**Southern New Hampshire University**  
+Bachelor of Science, Computer Science · GPA 3.9 / 4.0 · Expected January 2027
 
-📫 **Best contact:** [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
+---
+
+## 🏢 About Dangling Dice Studios
+
+Dangling Dice Studios builds practical, production-ready software focused on AI-driven applications, workflow automation, and secure cloud-integrated systems.
+
+🌐 [danglingdicestudios.com](https://danglingdicestudios.com)
+
+---
+
+## 🤝 Open to Opportunities
+
+Interested in conversations around **AI Engineering**, **Full-Stack Product Engineering**, **Security**, **Mobile**, and **Automation**.
+
+📫 [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
