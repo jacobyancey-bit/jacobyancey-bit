@@ -1,16 +1,13 @@
-# Hi, I'm Jacob Yancey 👋  
-### Founder & Principal Software Engineer • Dangling Dice Studios L.L.C.
+# Hi, I'm Jacob Yancey 👋
+### Founder-Engineer building secure AI systems, automation tooling, and full-stack applications
 
-I design and ship **production AI software** across custom LLMs, full-stack platforms, mobile apps, and secure backend systems.
+Founder-engineer behind **Dangling Dice Studios**, focused on recruiter-ready software work across AI workflows, secure backend systems, testing discipline, and product delivery.
 
 <p align="left">
   <a href="https://danglingdicestudios.com"><img alt="Website" src="https://img.shields.io/badge/Website-danglingdicestudios.com-0A66C2?style=for-the-badge"></a>
   <a href="mailto:jacob.yancey@danglingdicestudios.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge"></a>
-  <!-- Optional LinkedIn badge -->
-  <!-- <a href="https://linkedin.com/in/your-link"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge"></a> -->
+  <img alt="LinkedIn placeholder" src="https://img.shields.io/badge/LinkedIn-Add%20Profile%20Link-0A66C2?style=for-the-badge">
 </p>
-
----
 
 ## Recruiter Snapshot
 
@@ -82,8 +79,7 @@ A Spring Boot security modernization case study focused on hardening a financial
 **What it is**  
 Automated JUnit-based service test suites built to validate business rules, protect against regressions, and prove boundary behavior across core domain services.
 
-**Tech Stack**  
-`Java` `JUnit` `Mockito`
+> Current links stay on the existing repository URLs until the rename workflow is completed.
 
 **Selected Impact**
 - Engineered complete automation for Contact, Task, and Appointment services
@@ -106,41 +102,48 @@ A C++ academic advising application that uses a Binary Search Tree to load, sear
 - Chose a BST implementation to balance lookup speed and sorted traversal needs
 - Documented runtime, memory, and maintainability tradeoffs across multiple data-structure options
 
----
+- Current repo: [jacobyancey-bit/leviathan-ai-studio](https://github.com/jacobyancey-bit/leviathan-ai-studio)
+- Secure AI workflow platform using distributed scraping and evaluation feedback loops to improve model performance iteratively
+- Focus areas: AI orchestration, structured outputs, automation pipelines
 
-## 🧩 Core Skills
+### AI Learning Calculator
+*Planned rename from `dangling-dice-calculator-frontend`*
 
-**Languages & Frameworks**  
-Python, JavaScript/TypeScript, Dart, Java, Next.js, Flutter, Spring Boot
+- Current repo: [jacobyancey-bit/dangling-dice-calculator-frontend](https://github.com/jacobyancey-bit/dangling-dice-calculator-frontend)
+- AI-powered learning calculator with reasoning personas, local persistence, and a polished user experience
+- Focus areas: Flutter product engineering, mobile UX, applied AI features
 
-**AI / Data Systems**  
-LLM fine-tuning, LoRA/PEFT workflows, evaluation pipelines, structured generation
+### Secure Communications System
+*Planned rename from `CS-305-Software-Security`*
 
-**Infrastructure & Tooling**  
-Redis, BullMQ, Supabase, Playwright, Electron, CI-oriented test automation
+- Current repo: [jacobyancey-bit/CS-305-Software-Security](https://github.com/jacobyancey-bit/CS-305-Software-Security)
+- Spring Boot security project focused on certificate-based authentication, cryptographic verification, and payload integrity
+- Focus areas: secure coding, authentication, system integrity
 
-**Security & Reliability**  
-RBAC, certificate management, data integrity validation, regression prevention
+### Test Automation Frameworks
+*Planned rename from `CS-320-Software-Test-Automation`*
 
----
+- Current repo: [jacobyancey-bit/CS-320-Software-Test-Automation](https://github.com/jacobyancey-bit/CS-320-Software-Test-Automation)
+- Java test automation portfolio demonstrating business-rule coverage with JUnit and Mockito
+- Focus areas: QA engineering, boundary testing, regression prevention
 
-## 🏢 About Dangling Dice Studios L.L.C.
+## Tech Stack & Focus Areas
 
-Dangling Dice Studios builds practical, production-ready software focused on:
-- AI-driven applications
-- Workflow automation
-- Secure, scalable cloud-integrated systems
+- **Languages:** Python, JavaScript/TypeScript, Dart, Java
+- **Frameworks & Tools:** Next.js, Flutter, Spring Boot, Playwright, JUnit, Mockito
+- **Core Themes:** AI workflow platforms, automation tooling, secure systems, and public-facing product development
 
-🌐 **Website:** [danglingdicestudios.com](https://danglingdicestudios.com)
+## Portfolio Rename Plan
 
----
+- [ ] Rename `leviathan-ai-studio` to `ai-workflow-studio`
+- [ ] Rename `dangling-dice-calculator-frontend` to `ai-learning-calculator`
+- [ ] Rename `CS-305-Software-Security` to `secure-communications-system`
+- [ ] Rename `CS-320-Software-Test-Automation` to `test-automation-frameworks`
+- [ ] Update pinned repositories, resume links, and LinkedIn links after the repository URLs change
 
-## 🤝 Hiring / Collaboration
+## Contact
 
-Open to conversations around:
-- AI Engineering
-- Full-Stack Product Engineering
-- Mobile + Cloud Architecture
-- Automation and Platform Reliability
+Open to recruiter and collaborator conversations around AI engineering, automation platforms, secure software, and full-stack product work.
 
-📫 **Best contact:** [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
+- Email: [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
+- LinkedIn: add public profile link here
