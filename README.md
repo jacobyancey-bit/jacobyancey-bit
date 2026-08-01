@@ -102,44 +102,11 @@ A C++ academic advising application that uses a Binary Search Tree to load, sear
 - Chose a BST implementation to balance lookup speed and sorted traversal needs
 - Documented runtime, memory, and maintainability tradeoffs across multiple data-structure options
 
-- Current repo: [jacobyancey-bit/leviathan-ai-studio](https://github.com/jacobyancey-bit/leviathan-ai-studio)
-- Secure AI workflow platform using distributed scraping and evaluation feedback loops to improve model performance iteratively
-- Focus areas: AI orchestration, structured outputs, automation pipelines
-
-### AI Learning Calculator
-*Planned rename from `dangling-dice-calculator-frontend`*
-
-- Current repo: [jacobyancey-bit/dangling-dice-calculator-frontend](https://github.com/jacobyancey-bit/dangling-dice-calculator-frontend)
-- AI-powered learning calculator with reasoning personas, local persistence, and a polished user experience
-- Focus areas: Flutter product engineering, mobile UX, applied AI features
-
-### Secure Communications System
-*Planned rename from `CS-305-Software-Security`*
-
-- Current repo: [jacobyancey-bit/CS-305-Software-Security](https://github.com/jacobyancey-bit/CS-305-Software-Security)
-- Spring Boot security project focused on certificate-based authentication, cryptographic verification, and payload integrity
-- Focus areas: secure coding, authentication, system integrity
-
-### Test Automation Frameworks
-*Planned rename from `CS-320-Software-Test-Automation`*
-
-- Current repo: [jacobyancey-bit/CS-320-Software-Test-Automation](https://github.com/jacobyancey-bit/CS-320-Software-Test-Automation)
-- Java test automation portfolio demonstrating business-rule coverage with JUnit and Mockito
-- Focus areas: QA engineering, boundary testing, regression prevention
-
 ## Tech Stack & Focus Areas
 
 - **Languages:** Python, JavaScript/TypeScript, Dart, Java
 - **Frameworks & Tools:** Next.js, Flutter, Spring Boot, Playwright, JUnit, Mockito
 - **Core Themes:** AI workflow platforms, automation tooling, secure systems, and public-facing product development
-
-## Portfolio Rename Plan
-
-- [ ] Rename `leviathan-ai-studio` to `ai-workflow-studio`
-- [ ] Rename `dangling-dice-calculator-frontend` to `ai-learning-calculator`
-- [ ] Rename `CS-305-Software-Security` to `secure-communications-system`
-- [ ] Rename `CS-320-Software-Test-Automation` to `test-automation-frameworks`
-- [ ] Update pinned repositories, resume links, and LinkedIn links after the repository URLs change
 
 ## Contact
 
