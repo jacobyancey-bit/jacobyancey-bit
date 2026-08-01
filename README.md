@@ -1,112 +1,129 @@
 # Hi, I'm Jacob Yancey 👋  
-**Founder & Principal Software Engineer, Dangling Dice Studios L.L.C.**
+### Founder & Principal Software Engineer • Dangling Dice Studios L.L.C.
 
-I build production-grade software across **AI systems, custom LLMs, mobile applications, automation frameworks, and secure backend architectures**.
+I design and ship **production AI software** across custom LLMs, full-stack platforms, mobile apps, and secure backend systems.
 
-🌐 **Company:** [Dangling Dice Studios L.L.C.](https://danglingdicestudios.com)  
-📫 **Contact:** [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)  
-<!-- Optional: Add LinkedIn here -->
+<p align="left">
+  <a href="https://danglingdicestudios.com"><img alt="Website" src="https://img.shields.io/badge/Website-danglingdicestudios.com-0A66C2?style=for-the-badge"></a>
+  <a href="mailto:jacob.yancey@danglingdicestudios.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge"></a>
+  <!-- Optional LinkedIn badge -->
+  <!-- <a href="https://linkedin.com/in/your-link"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge"></a> -->
+</p>
+
+---
+
+## Recruiter Snapshot
+
+- 🧠 **AI/LLM Engineering:** fine-tuning, evaluation pipelines, structured outputs
+- 🏗️ **Full-Stack Product Delivery:** Next.js + Electron + cloud-backed services
+- 📱 **Mobile Engineering:** Flutter production apps with strong state architecture
+- 🔐 **Secure Systems:** certificate-based auth, RBAC, integrity verification
+- ✅ **Quality Engineering:** robust automated testing and regression prevention
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1) Leviathan AI Studio & Custom LLM (Leviathan Model)
-🔗 Repo: [leviathan-ai-studio](https://github.com/jacobyancey/leviathan-ai-studio)  
-🌍 Live Demo: [Recruiter Demo Access](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
+**Repository:** [jacobyancey/leviathan-ai-studio](https://github.com/jacobyancey/leviathan-ai-studio)  
+**Live Demo (Recruiter Access):** [leviathan-dice.com](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
 
-**Summary:**  
-A full-stack AI studio featuring a custom fine-tuned LLM (Leviathan) specialized in automated web data extraction evaluation and structured JSON formatting.
+**What it is**  
+A full-stack AI studio centered on a custom fine-tuned LLM (“Leviathan”) specialized in automated web data extraction evaluation and structured JSON formatting.
 
-**Tech:**  
-Python, Unsloth, LoRA/PEFT, PyTorch, Playwright, Next.js, BullMQ, Redis, Supabase, Electron
+**Tech Stack**  
+`Python` `Unsloth` `LoRA/PEFT` `PyTorch` `Playwright` `Next.js` `BullMQ` `Redis` `Supabase` `Electron`
 
-**My Role & Impact:**
-- Designed, fine-tuned, and deployed the Leviathan LLM  
-- Built distributed scraping pipelines feeding continuous evaluation data  
-- Implemented RBAC security middleware and recruiter-safe read-only sessions  
-- Delivered cross-platform desktop + web studio using Electron + Next.js
+**Selected Impact**
+- Designed, fine-tuned, and deployed the Leviathan model
+- Built distributed scraping pipelines for continuous evaluation data
+- Implemented RBAC middleware with recruiter-safe read-only sessions
+- Delivered cross-platform desktop + web studio experience
 
 ---
 
 ### 2) AI Calculator Mobile Application (Dangling Dice Studios)
-🔗 Repo: *Coming soon (public release pending)*  
-📱 Play Store: *Link coming soon*
+**Repository:** _Coming soon (public release pending)_  
+**Google Play:** _Link coming soon_
 
-**Summary:**  
-A commercial AI-powered learning calculator featuring dynamic reasoning personas and persistent local storage.
+**What it is**  
+A commercial AI-powered learning calculator with reasoning personas and persistent local storage.
 
-**Tech:**  
-Flutter, Dart, SQLite, Google Gemini API, Riverpod
+**Tech Stack**  
+`Flutter` `Dart` `SQLite` `Google Gemini API` `Riverpod`
 
-**My Role & Impact:**
-- Built and published a production mobile app on Google Play  
-- Implemented persona-based reasoning modes (Tutor, ELI5, Professor)  
-- Architected high-performance state management with Riverpod  
-- Added persistent history storage via SQLite
+**Selected Impact**
+- Built and published a production app on Google Play
+- Implemented Tutor / ELI5 / Professor reasoning personas
+- Architected high-performance state management via Riverpod
+- Added reliable local persistence with SQLite
 
 ---
 
 ### 3) Secure Communications System
-🔗 Repo: *Add when public*
+**Repository:** _Add when public_
 
-**Summary:**  
-A Spring Boot-based cryptographic communication system with certificate-based authentication.
+**What it is**  
+A Spring Boot cryptographic communication system with certificate-based authentication.
 
-**Tech:**  
-Spring Boot, Java, Java Keytool, Cryptography
+**Tech Stack**  
+`Java` `Spring Boot` `Java Keytool` `Cryptography`
 
-**My Role & Impact:**
-- Built secure backend communication channels  
-- Generated and managed self-signed certificates  
+**Selected Impact**
+- Built secure communication channels between services
+- Generated and managed self-signed certificates
 - Implemented checksum verification to prevent tampering
 
 ---
 
 ### 4) Software Test Automation Frameworks
-🔗 Repo: *Add when public*
+**Repository:** _Add when public_
 
-**Summary:**  
-JUnit/Mockito-based automated test suites achieving 100% coverage across business logic services.
+**What it is**  
+Automated test suites (JUnit/Mockito) achieving full business-logic coverage.
 
-**Tech:**  
-Java, JUnit, Mockito
+**Tech Stack**  
+`Java` `JUnit` `Mockito`
 
-**My Role & Impact:**
-- Engineered full test automation for Contact, Task, and Appointment services  
-- Eliminated regression bugs through strict boundary and edge-case coverage
+**Selected Impact**
+- Engineered complete automation for Contact, Task, and Appointment services
+- Eliminated regression risk via strict boundary and edge-case testing
 
 ---
 
-## 🧠 Core Expertise
+## 🧩 Core Skills
 
-- Custom LLM fine-tuning and evaluation pipelines  
-- AI product engineering (web, desktop, mobile)  
-- Distributed scraping and async job systems  
-- Secure backend design and role-based access control  
-- Test automation and quality engineering
+**Languages & Frameworks**  
+Python, JavaScript/TypeScript, Dart, Java, Next.js, Flutter, Spring Boot
+
+**AI / Data Systems**  
+LLM fine-tuning, LoRA/PEFT workflows, evaluation pipelines, structured generation
+
+**Infrastructure & Tooling**  
+Redis, BullMQ, Supabase, Playwright, Electron, CI-oriented test automation
+
+**Security & Reliability**  
+RBAC, certificate management, data integrity validation, regression prevention
 
 ---
 
 ## 🏢 About Dangling Dice Studios L.L.C.
 
-Dangling Dice Studios builds practical, production-ready software with a focus on:
-- AI-driven applications  
-- Workflow automation  
-- Secure and scalable cloud-connected systems
+Dangling Dice Studios builds practical, production-ready software focused on:
+- AI-driven applications
+- Workflow automation
+- Secure, scalable cloud-integrated systems
 
-🌐 [Visit Company Website](https://danglingdicestudios.com)
+🌐 **Website:** [danglingdicestudios.com](https://danglingdicestudios.com)
 
 ---
 
-## 🤝 Recruiter Notes
+## 🤝 Hiring / Collaboration
 
-If you're hiring for roles involving:
+Open to conversations around:
 - AI Engineering
 - Full-Stack Product Engineering
 - Mobile + Cloud Architecture
 - Automation and Platform Reliability
-
-I’m open to discussing opportunities and technical fit.
 
 📫 **Best contact:** [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
