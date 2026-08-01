@@ -6,7 +6,7 @@ Founder-engineer behind **Dangling Dice Studios**, focused on recruiter-ready so
 <p align="left">
   <a href="https://danglingdicestudios.com"><img alt="Website" src="https://img.shields.io/badge/Website-danglingdicestudios.com-0A66C2?style=for-the-badge"></a>
   <a href="mailto:jacob.yancey@danglingdicestudios.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge"></a>
-  <img alt="LinkedIn placeholder" src="https://img.shields.io/badge/LinkedIn-Add%20Profile%20Link-0A66C2?style=for-the-badge">
+  <a href="https://www.linkedin.com/in/jacob-yancey-085151372/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jacob%20Yancey-0A66C2?style=for-the-badge"></a>
 </p>
 
 ## Recruiter Snapshot
@@ -113,4 +113,4 @@ A C++ academic advising application that uses a Binary Search Tree to load, sear
 Open to recruiter and collaborator conversations around AI engineering, automation platforms, secure software, and full-stack product work.
 
 - Email: [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
-- LinkedIn: (https://www.linkedin.com/in/jacob-yancey-085151372/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1RNW%2BkpIQg%2BMwUPF3p5NEA%3D%3D)
+- LinkedIn: [jacob-yancey-085151372](https://www.linkedin.com/in/jacob-yancey-085151372/)
