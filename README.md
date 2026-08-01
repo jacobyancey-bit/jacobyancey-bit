@@ -1,129 +1,69 @@
-# Hi, I'm Jacob Yancey 👋  
-### Founder & Principal Software Engineer • Dangling Dice Studios L.L.C.
+# Hi, I'm Jacob Yancey 👋
+### Founder-Engineer building secure AI systems, automation tooling, and full-stack applications
 
-I design and ship **production AI software** across custom LLMs, full-stack platforms, mobile apps, and secure backend systems.
+Founder-engineer behind **Dangling Dice Studios**, focused on recruiter-ready software work across AI workflows, secure backend systems, testing discipline, and product delivery.
 
 <p align="left">
   <a href="https://danglingdicestudios.com"><img alt="Website" src="https://img.shields.io/badge/Website-danglingdicestudios.com-0A66C2?style=for-the-badge"></a>
   <a href="mailto:jacob.yancey@danglingdicestudios.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge"></a>
-  <!-- Optional LinkedIn badge -->
-  <!-- <a href="https://linkedin.com/in/your-link"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge"></a> -->
+  <img alt="LinkedIn placeholder" src="https://img.shields.io/badge/LinkedIn-Add%20Profile%20Link-0A66C2?style=for-the-badge">
 </p>
-
----
 
 ## Recruiter Snapshot
 
-- 🧠 **AI/LLM Engineering:** fine-tuning, evaluation pipelines, structured outputs
-- 🏗️ **Full-Stack Product Delivery:** Next.js + Electron + cloud-backed services
-- 📱 **Mobile Engineering:** Flutter production apps with strong state architecture
-- 🔐 **Secure Systems:** certificate-based auth, RBAC, integrity verification
-- ✅ **Quality Engineering:** robust automated testing and regression prevention
+- **Focus:** secure AI systems, workflow automation, and full-stack application development
+- **Strengths:** LLM evaluation workflows, mobile and web product delivery, backend security, and test automation
+- **Brand:** building public-facing portfolio work under **Dangling Dice Studios**
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
+> Current links stay on the existing repository URLs until the rename workflow is completed.
 
-### 1) Leviathan AI Studio & Custom LLM (Leviathan Model)
-**Repository:** [jacobyancey/leviathan-ai-studio](https://github.com/jacobyancey/leviathan-ai-studio)  
-**Live Demo (Recruiter Access):** [leviathan-dice.com](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
+### AI Workflow Studio
+*Planned rename from `leviathan-ai-studio`*
 
-**What it is**  
-A full-stack AI studio centered on a custom fine-tuned LLM (“Leviathan”) specialized in automated web data extraction evaluation and structured JSON formatting.
+- Current repo: [jacobyancey-bit/leviathan-ai-studio](https://github.com/jacobyancey-bit/leviathan-ai-studio)
+- Secure AI workflow platform using distributed scraping and evaluation feedback loops to improve model performance iteratively
+- Focus areas: AI orchestration, structured outputs, automation pipelines
 
-**Tech Stack**  
-`Python` `Unsloth` `LoRA/PEFT` `PyTorch` `Playwright` `Next.js` `BullMQ` `Redis` `Supabase` `Electron`
+### AI Learning Calculator
+*Planned rename from `dangling-dice-calculator-frontend`*
 
-**Selected Impact**
-- Designed, fine-tuned, and deployed the Leviathan model
-- Built distributed scraping pipelines for continuous evaluation data
-- Implemented RBAC middleware with recruiter-safe read-only sessions
-- Delivered cross-platform desktop + web studio experience
+- Current repo: [jacobyancey-bit/dangling-dice-calculator-frontend](https://github.com/jacobyancey-bit/dangling-dice-calculator-frontend)
+- AI-powered learning calculator with reasoning personas, local persistence, and a polished user experience
+- Focus areas: Flutter product engineering, mobile UX, applied AI features
 
----
+### Secure Communications System
+*Planned rename from `CS-305-Software-Security`*
 
-### 2) AI Calculator Mobile Application (Dangling Dice Studios)
-**Repository:** _Coming soon (public release pending)_  
-**Google Play:** _Link coming soon_
+- Current repo: [jacobyancey-bit/CS-305-Software-Security](https://github.com/jacobyancey-bit/CS-305-Software-Security)
+- Spring Boot security project focused on certificate-based authentication, cryptographic verification, and payload integrity
+- Focus areas: secure coding, authentication, system integrity
 
-**What it is**  
-A commercial AI-powered learning calculator with reasoning personas and persistent local storage.
+### Test Automation Frameworks
+*Planned rename from `CS-320-Software-Test-Automation`*
 
-**Tech Stack**  
-`Flutter` `Dart` `SQLite` `Google Gemini API` `Riverpod`
+- Current repo: [jacobyancey-bit/CS-320-Software-Test-Automation](https://github.com/jacobyancey-bit/CS-320-Software-Test-Automation)
+- Java test automation portfolio demonstrating business-rule coverage with JUnit and Mockito
+- Focus areas: QA engineering, boundary testing, regression prevention
 
-**Selected Impact**
-- Built and published a production app on Google Play
-- Implemented Tutor / ELI5 / Professor reasoning personas
-- Architected high-performance state management via Riverpod
-- Added reliable local persistence with SQLite
+## Tech Stack & Focus Areas
 
----
+- **Languages:** Python, JavaScript/TypeScript, Dart, Java
+- **Frameworks & Tools:** Next.js, Flutter, Spring Boot, Playwright, JUnit, Mockito
+- **Core Themes:** AI workflow platforms, automation tooling, secure systems, and public-facing product development
 
-### 3) Secure Communications System
-**Repository:** _Add when public_
+## Portfolio Rename Plan
 
-**What it is**  
-A Spring Boot cryptographic communication system with certificate-based authentication.
+- [ ] Rename `leviathan-ai-studio` to `ai-workflow-studio`
+- [ ] Rename `dangling-dice-calculator-frontend` to `ai-learning-calculator`
+- [ ] Rename `CS-305-Software-Security` to `secure-communications-system`
+- [ ] Rename `CS-320-Software-Test-Automation` to `test-automation-frameworks`
+- [ ] Update pinned repositories, resume links, and LinkedIn links after the repository URLs change
 
-**Tech Stack**  
-`Java` `Spring Boot` `Java Keytool` `Cryptography`
+## Contact
 
-**Selected Impact**
-- Built secure communication channels between services
-- Generated and managed self-signed certificates
-- Implemented checksum verification to prevent tampering
+Open to recruiter and collaborator conversations around AI engineering, automation platforms, secure software, and full-stack product work.
 
----
-
-### 4) Software Test Automation Frameworks
-**Repository:** _Add when public_
-
-**What it is**  
-Automated test suites (JUnit/Mockito) achieving full business-logic coverage.
-
-**Tech Stack**  
-`Java` `JUnit` `Mockito`
-
-**Selected Impact**
-- Engineered complete automation for Contact, Task, and Appointment services
-- Eliminated regression risk via strict boundary and edge-case testing
-
----
-
-## 🧩 Core Skills
-
-**Languages & Frameworks**  
-Python, JavaScript/TypeScript, Dart, Java, Next.js, Flutter, Spring Boot
-
-**AI / Data Systems**  
-LLM fine-tuning, LoRA/PEFT workflows, evaluation pipelines, structured generation
-
-**Infrastructure & Tooling**  
-Redis, BullMQ, Supabase, Playwright, Electron, CI-oriented test automation
-
-**Security & Reliability**  
-RBAC, certificate management, data integrity validation, regression prevention
-
----
-
-## 🏢 About Dangling Dice Studios L.L.C.
-
-Dangling Dice Studios builds practical, production-ready software focused on:
-- AI-driven applications
-- Workflow automation
-- Secure, scalable cloud-integrated systems
-
-🌐 **Website:** [danglingdicestudios.com](https://danglingdicestudios.com)
-
----
-
-## 🤝 Hiring / Collaboration
-
-Open to conversations around:
-- AI Engineering
-- Full-Stack Product Engineering
-- Mobile + Cloud Architecture
-- Automation and Platform Reliability
-
-📫 **Best contact:** [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
+- Email: [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
+- LinkedIn: add public profile link here
