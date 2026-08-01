@@ -1,12 +1,12 @@
-# Hi, I'm Jacob Yancey 👋  
-### Founder & Principal Software Engineer • Dangling Dice Studios L.L.C.
+# Hi, I'm Jacob Yancey 👋
+### Founder & Principal Engineer • Dangling Dice Studios
 
-I design and ship **production AI software** across custom LLMs, full-stack platforms, mobile apps, and secure backend systems.
+Founder portfolio focused on **AI/LLM**, **full-stack apps**, **secure systems**, and **software automation**.
 
 <p align="left">
   <a href="https://danglingdicestudios.com"><img alt="Website" src="https://img.shields.io/badge/Website-danglingdicestudios.com-0A66C2?style=for-the-badge"></a>
   <a href="mailto:jacob.yancey@danglingdicestudios.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge"></a>
-  <!-- Optional LinkedIn badge -->
+  <!-- LinkedIn badge slot (enable once final URL/layout is ready) -->
   <!-- <a href="https://linkedin.com/in/your-link"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge"></a> -->
 </p>
 
@@ -14,116 +14,70 @@ I design and ship **production AI software** across custom LLMs, full-stack plat
 
 ## Recruiter Snapshot
 
-- 🧠 **AI/LLM Engineering:** fine-tuning, evaluation pipelines, structured outputs
-- 🏗️ **Full-Stack Product Delivery:** Next.js + Electron + cloud-backed services
-- 📱 **Mobile Engineering:** Flutter production apps with strong state architecture
-- 🔐 **Secure Systems:** certificate-based auth, RBAC, integrity verification
-- ✅ **Quality Engineering:** robust automated testing and regression prevention
+- 🧠 AI/LLM product engineering and applied automation
+- 🏗️ Full-stack product delivery (web + desktop + cloud services)
+- 🔐 Secure-by-design systems (auth, access control, integrity)
+- ⚙️ Software automation and quality-focused delivery
 
 ---
 
-## 🚀 Featured Projects
+## Featured Repositories (Pinned Order)
 
-### 1) Leviathan AI Studio & Custom LLM (Leviathan Model)
-**Repository:** [jacobyancey/leviathan-ai-studio](https://github.com/jacobyancey/leviathan-ai-studio)  
-**Live Demo (Recruiter Access):** [leviathan-dice.com](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
+> Goal: keep these 4 repos pinned in this order for first-impression clarity.
 
-**What it is**  
-A full-stack AI studio centered on a custom fine-tuned LLM (“Leviathan”) specialized in automated web data extraction evaluation and structured JSON formatting.
+### 1) [leviathan-ai-studio](https://github.com/jacobyancey/leviathan-ai-studio)
+**One-line business description:** _[Finalize recruiter-facing one-liner]_  
+**Stack tags/topics:** `AI/LLM` `Full-Stack` `Automation` `Security` `TBD`  
+**Screenshot / demo GIF:** _[Insert README image/GIF link]_  
 
-**Tech Stack**  
-`Python` `Unsloth` `LoRA/PEFT` `PyTorch` `Playwright` `Next.js` `BullMQ` `Redis` `Supabase` `Electron`
-
-**Selected Impact**
-- Designed, fine-tuned, and deployed the Leviathan model
-- Built distributed scraping pipelines for continuous evaluation data
-- Implemented RBAC middleware with recruiter-safe read-only sessions
-- Delivered cross-platform desktop + web studio experience
+**My Contributions**
+- _[Add 3–5 concrete ownership bullets tied to shipped outcomes]_
 
 ---
 
-### 2) AI Calculator Mobile Application (Dangling Dice Studios)
-**Repository:** _Coming soon (public release pending)_  
-**Google Play:** _Link coming soon_
+### 2) [Repository #2](https://github.com/jacobyancey-bit/REPO_NAME_2)
+**One-line business description:** _[Add concise business value statement]_  
+**Stack tags/topics:** `Tag1` `Tag2` `Tag3`  
+**Screenshot / demo GIF:** _[Insert README image/GIF link]_  
 
-**What it is**  
-A commercial AI-powered learning calculator with reasoning personas and persistent local storage.
-
-**Tech Stack**  
-`Flutter` `Dart` `SQLite` `Google Gemini API` `Riverpod`
-
-**Selected Impact**
-- Built and published a production app on Google Play
-- Implemented Tutor / ELI5 / Professor reasoning personas
-- Architected high-performance state management via Riverpod
-- Added reliable local persistence with SQLite
+**My Contributions**
+- _[Add 3–5 concrete ownership bullets]_
 
 ---
 
-### 3) Secure Communications System
-**Repository:** _Add when public_
+### 3) [Repository #3](https://github.com/jacobyancey-bit/REPO_NAME_3)
+**One-line business description:** _[Add concise business value statement]_  
+**Stack tags/topics:** `Tag1` `Tag2` `Tag3`  
+**Screenshot / demo GIF:** _[Insert README image/GIF link]_  
 
-**What it is**  
-A Spring Boot cryptographic communication system with certificate-based authentication.
-
-**Tech Stack**  
-`Java` `Spring Boot` `Java Keytool` `Cryptography`
-
-**Selected Impact**
-- Built secure communication channels between services
-- Generated and managed self-signed certificates
-- Implemented checksum verification to prevent tampering
+**My Contributions**
+- _[Add 3–5 concrete ownership bullets]_
 
 ---
 
-### 4) Software Test Automation Frameworks
-**Repository:** _Add when public_
+### 4) [Repository #4](https://github.com/jacobyancey-bit/REPO_NAME_4)
+**One-line business description:** _[Add concise business value statement]_  
+**Stack tags/topics:** `Tag1` `Tag2` `Tag3`  
+**Screenshot / demo GIF:** _[Insert README image/GIF link]_  
 
-**What it is**  
-Automated test suites (JUnit/Mockito) achieving full business-logic coverage.
-
-**Tech Stack**  
-`Java` `JUnit` `Mockito`
-
-**Selected Impact**
-- Engineered complete automation for Contact, Task, and Appointment services
-- Eliminated regression risk via strict boundary and edge-case testing
+**My Contributions**
+- _[Add 3–5 concrete ownership bullets]_
 
 ---
 
-## 🧩 Core Skills
+## About Dangling Dice Studios
 
-**Languages & Frameworks**  
-Python, JavaScript/TypeScript, Dart, Java, Next.js, Flutter, Spring Boot
-
-**AI / Data Systems**  
-LLM fine-tuning, LoRA/PEFT workflows, evaluation pipelines, structured generation
-
-**Infrastructure & Tooling**  
-Redis, BullMQ, Supabase, Playwright, Electron, CI-oriented test automation
-
-**Security & Reliability**  
-RBAC, certificate management, data integrity validation, regression prevention
-
----
-
-## 🏢 About Dangling Dice Studios L.L.C.
-
-Dangling Dice Studios builds practical, production-ready software focused on:
+Dangling Dice Studios builds practical software in:
 - AI-driven applications
-- Workflow automation
-- Secure, scalable cloud-integrated systems
+- workflow automation
+- secure, scalable cloud-integrated systems
 
 🌐 **Website:** [danglingdicestudios.com](https://danglingdicestudios.com)
 
 ---
 
-## 🤝 Hiring / Collaboration
+## Hiring / Collaboration
 
-Open to conversations around:
-- AI Engineering
-- Full-Stack Product Engineering
-- Mobile + Cloud Architecture
-- Automation and Platform Reliability
+Open to AI engineering, full-stack product engineering, secure systems, and automation-focused roles.
 
 📫 **Best contact:** [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
