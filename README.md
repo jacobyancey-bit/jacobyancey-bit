@@ -11,10 +11,14 @@ Founder-engineer behind **Dangling Dice Studios**, focused on  software work acr
 
 ## Snapshot
 
-- 🧠 AI/LLM product engineering and applied automation
-- 🏗️ Full-stack product delivery (web + desktop + cloud services)
-- 🔐 Secure-by-design systems (auth, access control, integrity)
-- ⚙️ Software automation and quality-focused delivery
+| Area | Focus |
+|---|---|
+| 🧠 **AI / LLM Systems** | Fine-tuning, evaluation pipelines, distributed data ingestion |
+| 🏗️ **Full-Stack Product** | Next.js · Electron · Supabase · cloud-backed apps |
+| 📱 **Mobile Engineering** | Flutter production apps · Riverpod state · SQLite persistence |
+| 🔐 **Security Engineering** | RBAC middleware · certificate management · data integrity |
+| ✅ **Test Automation** | JUnit · Mockito · 100% business-rule coverage |
+| ⚙️ **Automation** | Playwright · BullMQ · Redis · workflow pipelines |
 
 ## Featured Work
 
@@ -30,14 +34,11 @@ Founder-engineer behind **Dangling Dice Studios**, focused on  software work acr
 **What it is**  
 A full-stack AI studio centered on a custom fine-tuned LLM ("Leviathan") specialized in automated web data extraction evaluation and structured JSON formatting.
 
-**Tech Stack**  
-`Python` `Unsloth` `LoRA/PEFT` `PyTorch` `Playwright` `Next.js` `BullMQ` `Redis` `Supabase` `Electron`
+- Built a **distributed web scraping pipeline** using Playwright, BullMQ, and Redis to continuously collect evaluation data and feed it back into the model training workflow.
+- Designed **Next.js security middleware** enforcing Role-Based Access Control (RBAC) and read-only guest sessions to protect sensitive application features.
+- **Package-wrapped the studio** with Electron, Next.js, and Supabase to support both web orchestration and local desktop operation.
 
-**Selected Impact**
-- Designed, fine-tuned, and deployed the Leviathan model
-- Built distributed scraping pipelines for continuous evaluation data
-- Implemented RBAC middleware with recruiter-safe read-only sessions
-- Delivered cross-platform desktop + web studio experience
+🔗 **Repo:** [leviathan-ai-studio](https://github.com/jacobyancey-bit/leviathan-ai-studio) &nbsp;|&nbsp; **Live Demo:** [leviathan-dice.com](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
 
 ---
 
@@ -48,8 +49,9 @@ A full-stack AI studio centered on a custom fine-tuned LLM ("Leviathan") special
 **What it is**  
 A production mobile calculator experience built in Flutter, showcasing the app architecture, polished user experience, and local-first persistence behind a commercial AI-assisted learning product.
 
-**Tech Stack**  
-`Flutter` `Dart` `SQLite` `Google Gemini API` `Riverpod`
+- Implemented **dynamic reasoning personas** (Standard Tutor, ELI5 Friendly Tutor, College Professor) using custom system instructions and context framing to tailor AI responses to user learning levels.
+- Architected **local state management** with Riverpod for predictable data flow, high performance, and an optimized rendering lifecycle.
+- Integrated **SQLite** for seamless persistent local storage and conversation history management.
 
 **Selected Impact**
 - Built a cross-platform calculator experience with production-ready mobile architecture
@@ -65,8 +67,7 @@ A production mobile calculator experience built in Flutter, showcasing the app a
 **What it is**  
 A Spring Boot security modernization case study focused on hardening a financial services application with encrypted transport, checksum validation, and defensible remediation practices.
 
-**Tech Stack**  
-`Java` `Spring Boot` `Java Keytool` `Cryptography`
+A secure backend communications network configured for cryptographic verification between services.
 
 **Selected Impact**
 - Enabled HTTPS using managed certificates and secure transport configuration
