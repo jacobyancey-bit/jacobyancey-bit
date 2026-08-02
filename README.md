@@ -1,83 +1,118 @@
 # Hi, I'm Jacob Yancey 👋
-### Founder & Principal Engineer • Dangling Dice Studios
+### Founder-Engineer building secure AI systems, automation tooling, and full-stack applications
 
-Founder portfolio focused on **AI/LLM**, **full-stack apps**, **secure systems**, and **software automation**.
+Founder-engineer behind **Dangling Dice Studios**, focused on  software work across AI workflows, secure backend systems, testing discipline, and product delivery.
 
 <p align="left">
   <a href="https://danglingdicestudios.com"><img alt="Website" src="https://img.shields.io/badge/Website-danglingdicestudios.com-0A66C2?style=for-the-badge"></a>
   <a href="mailto:jacob.yancey@danglingdicestudios.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge"></a>
-  <!-- LinkedIn badge slot (enable once final URL/layout is ready) -->
-  <!-- <a href="https://linkedin.com/in/your-link"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge"></a> -->
+  <a href="https://www.linkedin.com/in/jacob-yancey-085151372/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jacob%20Yancey-0A66C2?style=for-the-badge"></a>
 </p>
 
----
-
-## Recruiter Snapshot
+## Snapshot
 
 - 🧠 AI/LLM product engineering and applied automation
 - 🏗️ Full-stack product delivery (web + desktop + cloud services)
 - 🔐 Secure-by-design systems (auth, access control, integrity)
 - ⚙️ Software automation and quality-focused delivery
 
----
+## Featured Work
 
-## Featured Repositories (Pinned Order)
+- **Leviathan AI Studio**  
+  Secure AI workflow and evaluation platform using distributed scraping and feedback loops for iterative model improvement.
+- **Public showcase projects (in progress)**  
+  Security, testing, and algorithm portfolio projects are being standardized with recruiter-friendly naming and polished READMEs.
 
-> Goal: keep these 4 repos pinned in this order for first-impression clarity.
+### 1) Leviathan AI Studio & Custom LLM (Leviathan Model)
+**Repository:** [jacobyancey-bit/leviathan-ai-studio](https://github.com/jacobyancey-bit/leviathan-ai-studio)  
+**Live Demo (Recruiter Access):** [leviathan-dice.com](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
 
-### 1) [leviathan-ai-studio](https://github.com/jacobyancey/leviathan-ai-studio)
-**One-line business description:** _[Finalize recruiter-facing one-liner]_  
-**Stack tags/topics:** `AI/LLM` `Full-Stack` `Automation` `Security` `TBD`  
-**Screenshot / demo GIF:** _[Insert README image/GIF link]_  
+**What it is**  
+A full-stack AI studio centered on a custom fine-tuned LLM ("Leviathan") specialized in automated web data extraction evaluation and structured JSON formatting.
 
-**My Contributions**
-- _[Add 3–5 concrete ownership bullets tied to shipped outcomes]_
+**Tech Stack**  
+`Python` `Unsloth` `LoRA/PEFT` `PyTorch` `Playwright` `Next.js` `BullMQ` `Redis` `Supabase` `Electron`
 
----
-
-### 2) [Repository #2](https://github.com/jacobyancey-bit/REPO_NAME_2)
-**One-line business description:** _[Add concise business value statement]_  
-**Stack tags/topics:** `Tag1` `Tag2` `Tag3`  
-**Screenshot / demo GIF:** _[Insert README image/GIF link]_  
-
-**My Contributions**
-- _[Add 3–5 concrete ownership bullets]_
-
----
-
-### 3) [Repository #3](https://github.com/jacobyancey-bit/REPO_NAME_3)
-**One-line business description:** _[Add concise business value statement]_  
-**Stack tags/topics:** `Tag1` `Tag2` `Tag3`  
-**Screenshot / demo GIF:** _[Insert README image/GIF link]_  
-
-**My Contributions**
-- _[Add 3–5 concrete ownership bullets]_
+**Selected Impact**
+- Designed, fine-tuned, and deployed the Leviathan model
+- Built distributed scraping pipelines for continuous evaluation data
+- Implemented RBAC middleware with recruiter-safe read-only sessions
+- Delivered cross-platform desktop + web studio experience
 
 ---
 
-### 4) [Repository #4](https://github.com/jacobyancey-bit/REPO_NAME_4)
-**One-line business description:** _[Add concise business value statement]_  
-**Stack tags/topics:** `Tag1` `Tag2` `Tag3`  
-**Screenshot / demo GIF:** _[Insert README image/GIF link]_  
+### 2) Dangling Dice Calculator
+**Repository:** [Dangling Dice Calculator (Public Showcase)](https://github.com/jacobyancey-bit/dangling-dice-calculator-frontend)  
+**Delivery Model:** Public Flutter showcase for a commercial AI-powered mobile product
 
-**My Contributions**
-- _[Add 3–5 concrete ownership bullets]_
+**What it is**  
+A production mobile calculator experience built in Flutter, showcasing the app architecture, polished user experience, and local-first persistence behind a commercial AI-assisted learning product.
 
----
+**Tech Stack**  
+`Flutter` `Dart` `SQLite` `Google Gemini API` `Riverpod`
 
-## About Dangling Dice Studios
-
-Dangling Dice Studios builds practical software in:
-- AI-driven applications
-- workflow automation
-- secure, scalable cloud-integrated systems
-
-🌐 **Website:** [danglingdicestudios.com](https://danglingdicestudios.com)
+**Selected Impact**
+- Built a cross-platform calculator experience with production-ready mobile architecture
+- Implemented AI-guided learning modes and persona-driven explanations
+- Architected high-performance state management via Riverpod
+- Added reliable local persistence with SQLite for history and preferences
 
 ---
 
-## Hiring / Collaboration
+### 3) Artemis Financial Security Modernization
+**Repository:** [Security Modernization Case Study](https://github.com/jacobyancey-bit/CS-305-Software-Security)
 
-Open to AI engineering, full-stack product engineering, secure systems, and automation-focused roles.
+**What it is**  
+A Spring Boot security modernization case study focused on hardening a financial services application with encrypted transport, checksum validation, and defensible remediation practices.
 
-📫 **Best contact:** [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
+**Tech Stack**  
+`Java` `Spring Boot` `Java Keytool` `Cryptography`
+
+**Selected Impact**
+- Enabled HTTPS using managed certificates and secure transport configuration
+- Implemented SHA-256 checksum verification to detect tampering
+- Documented vulnerability findings, remediation choices, and validation steps clearly for stakeholders
+
+---
+
+### 4) Service Test Automation Frameworks
+**Repository:** [Software Test Automation Portfolio](https://github.com/jacobyancey-bit/CS-320-Software-Test-Automation)
+
+**What it is**  
+Automated JUnit-based service test suites built to validate business rules, protect against regressions, and prove boundary behavior across core domain services.
+
+> Current links stay on the existing repository URLs until the rename workflow is completed.
+
+**Selected Impact**
+- Engineered complete automation for Contact, Task, and Appointment services
+- Eliminated regression risk via strict boundary and edge-case testing
+- Demonstrated maintainable QA strategy grounded in service-layer validation and requirements mapping
+
+---
+
+### 5) Academic Advising BST System
+**Repository:** [Data Structures Case Study](https://github.com/jacobyancey-bit/CS-300-Portfolio)
+
+**What it is**  
+A C++ academic advising application that uses a Binary Search Tree to load, search, and print course data efficiently while demonstrating thoughtful data-structure tradeoff analysis.
+
+**Tech Stack**  
+`C++` `Binary Search Tree` `Algorithms` `File Parsing`
+
+**Selected Impact**
+- Built a working advising utility for searching and sorting curriculum data
+- Chose a BST implementation to balance lookup speed and sorted traversal needs
+- Documented runtime, memory, and maintainability tradeoffs across multiple data-structure options
+
+## Tech Stack & Focus Areas
+
+- **Languages:** Python, JavaScript/TypeScript, Dart, Java
+- **Frameworks & Tools:** Next.js, Flutter, Spring Boot, Playwright, JUnit, Mockito
+- **Core Themes:** AI workflow platforms, automation tooling, secure systems, and public-facing product development
+
+## Contact
+
+Open to recruiter and collaborator conversations around AI engineering, automation platforms, secure software, and full-stack product work.
+
+- Email: [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
+- LinkedIn: [jacob-yancey-085151372](https://www.linkedin.com/in/jacob-yancey-085151372/)
