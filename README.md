@@ -1,7 +1,7 @@
 # Hi, I'm Jacob Yancey 👋
 ### Founder-Engineer building secure AI systems, automation tooling, and full-stack applications
 
-Founder-engineer behind **Dangling Dice Studios**, focused on recruiter-ready software work across AI workflows, secure backend systems, testing discipline, and product delivery.
+Founder-engineer behind **Dangling Dice Studios**, focused on  software work across AI workflows, secure backend systems, testing discipline, and product delivery.
 
 <p align="left">
   <a href="https://danglingdicestudios.com"><img alt="Website" src="https://img.shields.io/badge/Website-danglingdicestudios.com-0A66C2?style=for-the-badge"></a>
@@ -9,7 +9,7 @@ Founder-engineer behind **Dangling Dice Studios**, focused on recruiter-ready so
   <a href="https://www.linkedin.com/in/jacob-yancey-085151372/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jacob%20Yancey-0A66C2?style=for-the-badge"></a>
 </p>
 
-## Recruiter Snapshot
+## Snapshot
 
 - AI/LLM systems and secure AI-powered product workflows
 - Secure web applications and full-stack product delivery
@@ -109,18 +109,6 @@ A C++ academic advising application that uses a Binary Search Tree to load, sear
 - **Languages:** Python, JavaScript/TypeScript, Dart, Java
 - **Frameworks & Tools:** Next.js, Flutter, Spring Boot, Playwright, JUnit, Mockito
 - **Core Themes:** AI workflow platforms, automation tooling, secure systems, and public-facing product development
-
-## Portfolio Branding Roadmap (CS-* Repositories)
-
-The following branding updates align repository names with project topics instead of course codes:
-
-| Current Repository | Recommended Public Name | Showcase Focus | Suggested Additions |
-| --- | --- | --- | --- |
-| `CS-300-Portfolio` | `data-structures-algorithms-portfolio` | Algorithms, complexity analysis, and problem-solving depth | Add benchmarks, complexity notes, and graph/tree demos |
-| `CS-305-Software-Security` | `secure-communications-system` | Secure coding, cryptography, and integrity verification | Add threat model, auth flow diagram, and tampering tests |
-| `CS-320-Software-Test-Automation` | `software-test-automation-frameworks` | JUnit/Mockito quality engineering and regression prevention | Add edge-case suites, coverage badge, and CI test workflow |
-
-> Repo renames are applied per-repository in GitHub settings; this profile README documents the public-facing naming strategy.
 
 ## Contact
 
