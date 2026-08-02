@@ -11,10 +11,10 @@ Founder-engineer behind **Dangling Dice Studios**, focused on  software work acr
 
 ## Snapshot
 
-- AI/LLM systems and secure AI-powered product workflows
-- Secure web applications and full-stack product delivery
-- Automation systems, orchestration tooling, and test infrastructure
-- Mobile development and production-ready user experiences
+- 🧠 AI/LLM product engineering and applied automation
+- 🏗️ Full-stack product delivery (web + desktop + cloud services)
+- 🔐 Secure-by-design systems (auth, access control, integrity)
+- ⚙️ Software automation and quality-focused delivery
 
 ## Featured Work
 
