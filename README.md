@@ -11,22 +11,24 @@ Founder-engineer behind **Dangling Dice Studios**, focused on recruiter-ready so
 
 ## Recruiter Snapshot
 
-- 🧠 **AI/LLM Engineering:** fine-tuning, evaluation pipelines, structured outputs
-- 🏗️ **Full-Stack Product Delivery:** Next.js + Electron + cloud-backed services
-- 📱 **Mobile Engineering:** Flutter production apps with strong state architecture
-- 🔐 **Secure Systems:** certificate-based auth, RBAC, integrity verification
-- ✅ **Quality Engineering:** robust automated testing and regression prevention
+- AI/LLM systems and secure AI-powered product workflows
+- Secure web applications and full-stack product delivery
+- Automation systems, orchestration tooling, and test infrastructure
+- Mobile development and production-ready user experiences
 
----
+## Featured Work
 
-## 🚀 Featured Projects
+- **Leviathan AI Studio**  
+  Secure AI workflow and evaluation platform using distributed scraping and feedback loops for iterative model improvement.
+- **Public showcase projects (in progress)**  
+  Security, testing, and algorithm portfolio projects are being standardized with recruiter-friendly naming and polished READMEs.
 
 ### 1) Leviathan AI Studio & Custom LLM (Leviathan Model)
 **Repository:** [jacobyancey-bit/leviathan-ai-studio](https://github.com/jacobyancey-bit/leviathan-ai-studio)  
 **Live Demo (Recruiter Access):** [leviathan-dice.com](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
 
 **What it is**  
-A full-stack AI studio centered on a custom fine-tuned LLM (“Leviathan”) specialized in automated web data extraction evaluation and structured JSON formatting.
+A full-stack AI studio centered on a custom fine-tuned LLM ("Leviathan") specialized in automated web data extraction evaluation and structured JSON formatting.
 
 **Tech Stack**  
 `Python` `Unsloth` `LoRA/PEFT` `PyTorch` `Playwright` `Next.js` `BullMQ` `Redis` `Supabase` `Electron`
@@ -107,6 +109,18 @@ A C++ academic advising application that uses a Binary Search Tree to load, sear
 - **Languages:** Python, JavaScript/TypeScript, Dart, Java
 - **Frameworks & Tools:** Next.js, Flutter, Spring Boot, Playwright, JUnit, Mockito
 - **Core Themes:** AI workflow platforms, automation tooling, secure systems, and public-facing product development
+
+## Portfolio Branding Roadmap (CS-* Repositories)
+
+The following branding updates align repository names with project topics instead of course codes:
+
+| Current Repository | Recommended Public Name | Showcase Focus | Suggested Additions |
+| --- | --- | --- | --- |
+| `CS-300-Portfolio` | `data-structures-algorithms-portfolio` | Algorithms, complexity analysis, and problem-solving depth | Add benchmarks, complexity notes, and graph/tree demos |
+| `CS-305-Software-Security` | `secure-communications-system` | Secure coding, cryptography, and integrity verification | Add threat model, auth flow diagram, and tampering tests |
+| `CS-320-Software-Test-Automation` | `software-test-automation-frameworks` | JUnit/Mockito quality engineering and regression prevention | Add edge-case suites, coverage badge, and CI test workflow |
+
+> Repo renames are applied per-repository in GitHub settings; this profile README documents the public-facing naming strategy.
 
 ## Contact
 
