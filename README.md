@@ -1,10 +1,9 @@
 # Hi, I'm Jacob Yancey 👋
-### Founder-Engineer building secure AI systems, automation tooling, and full-stack applications
+### Full Stack Engineer building secure AI systems, automation tooling, and full-stack applications
 
-Founder-engineer behind **Dangling Dice Studios**, focused on  software work across AI workflows, secure backend systems, testing discipline, and product delivery.
+Full Stack Engineer for **Dangling Dice Studios**, focused on  software work across AI workflows, secure backend systems, testing discipline, and product delivery.
 
 <p align="left">
-  <a href="https://danglingdicestudios.com"><img alt="Website" src="https://img.shields.io/badge/Website-danglingdicestudios.com-0A66C2?style=for-the-badge"></a>
   <a href="mailto:jacob.yancey@danglingdicestudios.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/jacob-yancey-085151372/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jacob%20Yancey-0A66C2?style=for-the-badge"></a>
 </p>
