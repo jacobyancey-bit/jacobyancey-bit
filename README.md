@@ -1,5 +1,5 @@
 # Hi, I'm Jacob Yancey 👋
-### Software Engineer • U.S. Army Veteran • B.S. Computer Science (3.8 GPA)
+### Software Engineer • U.S. Army Veteran • B.S. Computer Science
 
 Full-Stack, Cloud & Systems Software Engineer based in **Huntsville, Alabama** and founder of **Dangling Dice Studios**. I architect production web APIs, cross-platform Flutter & React apps, distributed job pipelines, and privacy-first software across **Node.js/TypeScript, C# (.NET 10), Flutter, PostgreSQL/SQLite, and Redis**.
 
