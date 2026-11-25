@@ -1,118 +1,60 @@
 # Hi, I'm Jacob Yancey 👋
-### Full Stack Engineer building secure AI systems, automation tooling, and full-stack applications
+### Software Engineer • U.S. Army Veteran • B.S. Computer Science (3.8 GPA)
 
-Full Stack Engineer for **Dangling Dice Studios**, focused on  software work across AI workflows, secure backend systems, testing discipline, and product delivery.
+Full-Stack, Cloud & Systems Software Engineer based in **Huntsville, Alabama** and founder of **Dangling Dice Studios**. I architect production web APIs, cross-platform Flutter & React apps, distributed job pipelines, and privacy-first software across **Node.js/TypeScript, C# (.NET 10), Flutter, PostgreSQL/SQLite, and Redis**.
 
 <p align="left">
-  <a href="mailto:jacob.yancey@danglingdicestudios.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/jacob-yancey-085151372/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jacob%20Yancey-0A66C2?style=for-the-badge"></a>
+  <a href="https://dangling-dice-studios.com"><img alt="Website" src="https://img.shields.io/badge/Dangling%20Dice%20Studios-057873?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://rx.dangling-dice-studios.com"><img alt="Rx Savings Watch" src="https://img.shields.io/badge/Rx%20Savings%20Watch-Live%20App-0E7490?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/jacob-yancey-085151372/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jacob%20Yancey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:Jacob.yanceyang@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-1D9BF0?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## Snapshot
+---
 
-| Area | Focus |
-|---|---|
-| 🧠 **AI / LLM Systems** | Fine-tuning, evaluation pipelines, distributed data ingestion |
-| 🏗️ **Full-Stack Product** | Next.js · Electron · Supabase · cloud-backed apps |
-| 📱 **Mobile Engineering** | Flutter production apps · Riverpod state · SQLite persistence |
-| 🔐 **Security Engineering** | RBAC middleware · certificate management · data integrity |
-| ✅ **Test Automation** | JUnit · Mockito · 100% business-rule coverage |
-| ⚙️ **Automation** | Playwright · BullMQ · Redis · workflow pipelines |
+## 🚀 Featured Production Builds
 
-## Featured Work
-
-- **Leviathan AI Studio**  
-  Secure AI workflow and evaluation platform using distributed scraping and feedback loops for iterative model improvement.
-- **Public showcase projects (in progress)**  
-  Security, testing, and algorithm portfolio projects are being standardized with recruiter-friendly naming and polished READMEs.
-
-### 1) Leviathan AI Studio & Custom LLM (Leviathan Model)
-**Repository:** [jacobyancey-bit/leviathan-ai-studio](https://github.com/jacobyancey-bit/leviathan-ai-studio)  
-**Live Demo (Recruiter Access):** [leviathan-dice.com](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
-
-**What it is**  
-A full-stack AI studio centered on a custom fine-tuned LLM ("Leviathan") specialized in automated web data extraction evaluation and structured JSON formatting.
-
-- Built a **distributed web scraping pipeline** using Playwright, BullMQ, and Redis to continuously collect evaluation data and feed it back into the model training workflow.
-- Designed **Next.js security middleware** enforcing Role-Based Access Control (RBAC) and read-only guest sessions to protect sensitive application features.
-- **Package-wrapped the studio** with Electron, Next.js, and Supabase to support both web orchestration and local desktop operation.
-
-🔗 **Repo:** [leviathan-ai-studio](https://github.com/jacobyancey-bit/leviathan-ai-studio) &nbsp;|&nbsp; **Live Demo:** [leviathan-dice.com](https://www.leviathan-dice.com/login?demo_token=recruiter_access_2026)
+| Project | Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **Rx Savings Watch** | `Flutter` `Node.js` `Express` `SQLite` `Stripe` `Railway` | Zero-PHI medication savings & refill tracker with multi-source federal ingestion (FDA Orange Book, DailyMed, RxNorm, CMS NADAC, CMS NPI), B2B Pharmacy Portal (`/partners`), Stripe webhooks, and 24 Flutter + Node test suites. | [Live App](https://rx.dangling-dice-studios.com) · [Repo](https://github.com/jacobyancey-bit/rx_savings_watch) |
+| **Dangling Dice Studios** | `Node.js` `Express` `Vite` `MongoDB` `Stripe` `Web Audio` | Production 5-subdomain monorepo serving 21+ stateless microservices, zero-latency client-side Web Audio DSP, provably fair HMAC-SHA256 RNG, Stripe subscriptions, and a 7-scenario security regression suite. | [Live Site](https://dangling-dice-studios.com) · [Repo](https://github.com/jacobyancey-bit/dangling-dice-website) |
+| **QuoteHubDotNet** | `C#` `ASP.NET Core 10` `PostgreSQL` `OpenTelemetry` `Docker` | Multi-cloud Clean Architecture REST API with `ProblemDetails`, tiered `RateLimiter`, `OutputCache`, JWT Auth, dynamic SVG card rendering, and GitHub Actions CI/CD to **Azure Container Apps** & **Railway**. | [Live API Docs](https://quotehub-api-production.up.railway.app) |
+| **Stateless Compute API Platform** | `TypeScript` `Fastify` `Next.js` `PostgreSQL` `Redis` | Deterministic pure-ESM compute engine suite (`@dangling-dice/*`) and interactive developer sandboxes built for zero external dependencies and low-latency API execution. | [Repo](https://github.com/jacobyancey-bit/api-platform) |
+| **Code_Craft** | `TypeScript` `Fastify` `React` `Flutter` `Prisma` `PostgreSQL` | 5-application field service & customer management monorepo (central REST/WebSocket API, 2 React web portals, 2 Flutter mobile apps) backed by PostgreSQL & Redis. | [Repo](https://github.com/jacobyancey-bit/code-craft) |
+| **Titrate Health** | `TypeScript` `Express` `Next.js` `Prisma` `PostgreSQL` `Redis` | Clinical weight management & GLP-1 titration telehealth platform with structured clinical state workflows and PostgreSQL/Redis persistence. | [Repo](https://github.com/jacobyancey-bit/titrate-health) |
 
 ---
 
-### 2) Dangling Dice Calculator
-**Repository:** [Dangling Dice Calculator (Public Showcase)](https://github.com/jacobyancey-bit/dangling-dice-calculator-frontend)  
-**Delivery Model:** Public Flutter showcase for a commercial AI-powered mobile product
+## 📱 Mobile, AI & Privacy-First Utilities
 
-**What it is**  
-A production mobile calculator experience built in Flutter, showcasing the app architecture, polished user experience, and local-first persistence behind a commercial AI-assisted learning product.
-
-- Implemented **dynamic reasoning personas** (Standard Tutor, ELI5 Friendly Tutor, College Professor) using custom system instructions and context framing to tailor AI responses to user learning levels.
-- Architected **local state management** with Riverpod for predictable data flow, high performance, and an optimized rendering lifecycle.
-- Integrated **SQLite** for seamless persistent local storage and conversation history management.
-
-**Selected Impact**
-- Built a cross-platform calculator experience with production-ready mobile architecture
-- Implemented AI-guided learning modes and persona-driven explanations
-- Architected high-performance state management via Riverpod
-- Added reliable local persistence with SQLite for history and preferences
+- **[DocScanner](https://github.com/jacobyancey-bit/doc-scanner)** — 100% on-device Android document scanner using **Android ML Kit** (auto edge detection & perspective warping), client-side `pdf-lib` PDF stitching, and QR desktop pairing.
+- **[Ambient Sleep](https://github.com/jacobyancey-bit/ambient_sleep)** — Offline, subscription-free Android multi-channel white noise & ambient audio mixer with smooth fade-out sleep timers and `WAKE_LOCK` background audio.
+- **[AI Workflow Studio (Leviathan)](https://github.com/jacobyancey-bit/ai-workflow-studio)** — Distributed scraping & LLM evaluation pipeline powered by **BullMQ (Redis)**, **Playwright**, **Supabase**, **Next.js**, and **Electron**.
+- **[AI Learning Calculator](https://github.com/jacobyancey-bit/ai-learning-calculator)** — Cross-platform Flutter AI math tutor using **Google Gemini API**, Riverpod, local SQLite history, and on-device **GGUF/llama.cpp** exploration via Dart FFI.
 
 ---
 
-### 3) Artemis Financial Security Modernization
-**Repository:** [Security Modernization Case Study](https://github.com/jacobyancey-bit/CS-305-Software-Security)
+## 🛠️ Tech Stack
 
-**What it is**  
-A Spring Boot security modernization case study focused on hardening a financial services application with encrypted transport, checksum validation, and defensible remediation practices.
-
-A secure backend communications network configured for cryptographic verification between services.
-
-**Selected Impact**
-- Enabled HTTPS using managed certificates and secure transport configuration
-- Implemented SHA-256 checksum verification to detect tampering
-- Documented vulnerability findings, remediation choices, and validation steps clearly for stakeholders
+- **Languages:** `C#` · `TypeScript` · `JavaScript (ES6+)` · `Dart` · `Python` · `Java 17` · `C++17` · `SQL`
+- **Backend & Web:** `ASP.NET Core 10` · `Node.js` · `Express` · `Fastify` · `Spring Boot` · `React` · `Next.js` · `Vite` · `OpenAPI / Scalar`
+- **Cloud & Data:** `Azure Container Apps` · `Railway` · `Render` · `Cloudflare Workers` · `PostgreSQL / Supabase` · `MongoDB` · `SQLite` · `Redis / BullMQ` · `Firebase`
+- **Mobile, AI & Systems:** `Flutter` · `Android SDK` · `Android ML Kit` · `Google Gemini API` · `Playwright` · `Web Audio API / DSP` · `Win32 API`
+- **Security, DevOps & QA:** `JWT / RBAC` · `Helmet / CSP` · `HMAC-SHA256` · `OpenTelemetry` · `Docker` · `GitHub Actions CI/CD` · `node:test` · `xUnit` · `Mockito`
 
 ---
 
-### 4) Service Test Automation Frameworks
-**Repository:** [Software Test Automation Portfolio](https://github.com/jacobyancey-bit/CS-320-Software-Test-Automation)
+## 🎓 Background & Credentials
 
-**What it is**  
-Automated JUnit-based service test suites built to validate business rules, protect against regressions, and prove boundary behavior across core domain services.
-
-> Current links stay on the existing repository URLs until the rename workflow is completed.
-
-**Selected Impact**
-- Engineered complete automation for Contact, Task, and Appointment services
-- Eliminated regression risk via strict boundary and edge-case testing
-- Demonstrated maintainable QA strategy grounded in service-layer validation and requirements mapping
+- **U.S. Army Veteran (2010 – 2022):** 12 years as an All-Source Intelligence Analyst & Security Manager (Top-Secret clearance)
+- **Education:** B.S. Computer Science (SNHU, 3.8 GPA) · M.S. Computer Science (SNHU, Starting Dec 2026) · A.S. Intelligence Operations (4.0 GPA)
+- **Certifications:** CompTIA Security+ (Packt) · Google Advanced Data Analytics · Google Data Analytics
 
 ---
 
-### 5) Academic Advising BST System
-**Repository:** [Data Structures Case Study](https://github.com/jacobyancey-bit/CS-300-Portfolio)
+## 📫 Connect
 
-**What it is**  
-A C++ academic advising application that uses a Binary Search Tree to load, search, and print course data efficiently while demonstrating thoughtful data-structure tradeoff analysis.
+Open to **Software Engineer / Full-Stack / Backend (.NET, Node.js/TypeScript, Cloud, Security)** opportunities in Huntsville, AL or remote.
 
-**Tech Stack**  
-`C++` `Binary Search Tree` `Algorithms` `File Parsing`
-
-**Selected Impact**
-- Built a working advising utility for searching and sorting curriculum data
-- Chose a BST implementation to balance lookup speed and sorted traversal needs
-- Documented runtime, memory, and maintainability tradeoffs across multiple data-structure options
-
-## Tech Stack & Focus Areas
-
-- **Languages:** Python, JavaScript/TypeScript, Dart, Java
-- **Frameworks & Tools:** Next.js, Flutter, Spring Boot, Playwright, JUnit, Mockito
-- **Core Themes:** AI workflow platforms, automation tooling, secure systems, and public-facing product development
-
-## Contact
-
-Open to recruiter and collaborator conversations around AI engineering, automation platforms, secure software, and full-stack product work.
-
-- Email: [jacob.yancey@danglingdicestudios.com](mailto:jacob.yancey@danglingdicestudios.com)
-- LinkedIn: [jacob-yancey-085151372](https://www.linkedin.com/in/jacob-yancey-085151372/)
+- **Email:** [Jacob.yanceyang@gmail.com](mailto:Jacob.yanceyang@gmail.com)
+- **LinkedIn:** [linkedin.com/in/jacob-yancey-085151372](https://www.linkedin.com/in/jacob-yancey-085151372/)
